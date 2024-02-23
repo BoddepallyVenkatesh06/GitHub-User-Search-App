@@ -35,7 +35,7 @@ The page will reload if you make edits.
 
 
 <p align="center">
-<img height="320px" src="Screenshot.png" />
+<img height="400px" src="Screenshot.png" />
 </p>
 
 
